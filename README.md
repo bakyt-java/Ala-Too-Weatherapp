@@ -8,7 +8,7 @@ Technical used - HTML,CSS,Java Script
 Youtube Link:
 
 
-![alt text](screenshots/2020-12-00.png)
+![alt text](screenshots/bakytokramov.png)
 
 
 
