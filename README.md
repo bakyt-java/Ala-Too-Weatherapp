@@ -3,12 +3,13 @@ This our project is about forecast.A variety of widgets with information about t
 
 
 Name and surname - Bakyt Ikramov Com19
+
 Technical used - HTML,CSS,Java Script
 
-Youtube Link:
-
+Website link: https://bakyt-java.github.io/Ala-Too-Weatherapp/
 
 ![alt text](screenshots/BakytIkramov.png)
+
 
 
 
